@@ -1,4 +1,4 @@
-### 👋 Hi, I'm < Your Hricha Samanta>
+### 👋 Hi, I'm <Hricha Samanta>
 
 💡 Passionate about **Machine Learning** and **Coding**  
 🚀 Exploring ML, CV & real-world problem solving  
