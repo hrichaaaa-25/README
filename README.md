@@ -60,7 +60,7 @@ Stay tuned 🚧
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *Coming soon*
+- 💼 LinkedIn: www.linkedin.com/in/hricha-samanta-7120b4321
 - 🧠 Always open to learning & collaboration
 
 ---
