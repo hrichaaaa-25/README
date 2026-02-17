@@ -56,11 +56,11 @@ Stay tuned 🚧
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HrichaSamanta&layout=compact&theme=tokyonight)
 
----
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/hricha-samanta-7120b4321
+- 💼 LinkedIn: www.linkedin.com/in/hricha-samanta-25HR
+- 
 - 🧠 Always open to learning & collaboration
 
 ---
